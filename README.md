@@ -1,4 +1,4 @@
-# lego analysis dashboard
+# Lego Analysis Dashboard
 
 ## overview
 
